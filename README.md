@@ -1,26 +1,42 @@
 # SOC Portfolio
 
-Welcome to my Security Operations portfolio.
+# Security Operations Portfolio
 
-This repository contains practical incident investigations and Blue Team projects.
+Welcome!
 
-## Projects
+I am an IT professional transitioning into Security Operations with practical experience in Microsoft Defender for Endpoint, Windows security, incident triage and Blue Team investigations.
 
-- Windows Brute Force Investigation
-- Phishing Investigation
-- Microsoft Defender Incident
-- PowerShell Investigation
-- Active Directory Investigation
-- Windows Event Log Hunting
-- IOC Enrichment
-- Home SOC Lab
+This repository contains my SOC investigations and security projects.
 
-## Technologies
+## Skills
 
 - Microsoft Defender for Endpoint
-- Windows
+
+- Windows Security
+
 - Active Directory
-- Microsoft 365
-- PowerShell
+
+- Incident Response
+
 - MITRE ATT&CK
-- NIST 800-61
+
+- Windows Event Logs
+
+- IOC Analysis
+
+- PowerShell
+
+- Linux
+
+- Networking
+
+## Featured Projects
+
+| Project                           | Description                          |
+| --------------------------------- | ------------------------------------ |
+| Windows Brute Force Investigation | Windows authentication investigation |
+| Phishing Investigation            | Email investigation                  |
+| MDE Incident                      | Microsoft Defender analysis          |
+| PowerShell                        | Threat investigation                 |
+| Home Lab                          | Personal SOC Lab                     |
+
